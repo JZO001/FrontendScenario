@@ -1,0 +1,9 @@
+.resizable-box {
+  border: 1px solid rgb(156, 156, 156);
+}
+
+.center-hort-vert {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
